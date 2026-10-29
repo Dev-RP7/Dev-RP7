@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/banner.svg" alt="RAPHAEL — desenvolvedor backend Java · Spring Boot" />
+<img width="100%" src="assets/banner-dragao.svg" alt="RAPHAEL — desenvolvedor backend Java · Spring Boot" />
 
 <img width="100%" src="assets/terminal.svg" alt="Terminal: whoami — Raphael, dev backend Java; stack Java, Spring Boot, Spring Security, JPA, MySQL, MongoDB, Docker, AWS; disponível para estágio e júnior" />
 
@@ -88,7 +88,7 @@ API para aluguel de jogos, com cadastro de jogos por console, usuários e alugu�
 -->
 
 <div align="center">
-  <img width="100%" src="assets/codando.svg" alt="Ninja em pixel art codando no notebook, com uma janela de código sendo digitada" />
+  <img width="100%" src="assets/ninja-codando.svg" alt="Ninja em pixel art codando no notebook, com uma janela de código sendo digitada" />
 </div>
 
 <p align="center"><code>[+] obrigado pela visita · conexão encerrada</code></p>
