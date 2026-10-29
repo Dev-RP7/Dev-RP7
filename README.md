@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="assets/banner-dragao.svg" alt="RAPHAEL — desenvolvedor backend Java · Spring Boot" />
+<img width="100%" src="assets/banner-v3.svg" alt="RAPHAEL — desenvolvedor backend Java · Spring Boot" />
 
-<img width="100%" src="assets/terminal.svg" alt="Terminal: whoami — Raphael, dev backend Java; stack Java, Spring Boot, Spring Security, JPA, MySQL, MongoDB, Docker, AWS; disponível para estágio e júnior" />
+<img width="100%" src="assets/terminal-v2.svg" alt="Terminal: whoami — Raphael, dev backend Java; stack Java, Spring Boot, Spring Security, JPA, MySQL, MongoDB, Docker, AWS; disponível para estágio e júnior" />
 
 </div>
 
@@ -21,14 +21,14 @@ Sou o **Raphael**, estudante de **Análise e Desenvolvimento de Sistemas no Sena
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,docker,git,github,idea,aws&perline=9&theme=dark" alt="Java, Spring, MySQL, MongoDB, Docker, Git, GitHub, IntelliJ, AWS" />
 </p>
 
-![Hibernate](https://img.shields.io/badge/Hibernate%20%2F%20JPA-0a0e13?style=for-the-badge&logo=hibernate&logoColor=00ff9c)
-![JWT](https://img.shields.io/badge/JWT-0a0e13?style=for-the-badge&logo=jsonwebtokens&logoColor=00ff9c)
-![JUnit5](https://img.shields.io/badge/JUnit%205-0a0e13?style=for-the-badge&logo=junit5&logoColor=00ff9c)
-![Mockito](https://img.shields.io/badge/Mockito-0a0e13?style=for-the-badge)
-![Swagger](https://img.shields.io/badge/Swagger-0a0e13?style=for-the-badge&logo=swagger&logoColor=00ff9c)
-![Maven](https://img.shields.io/badge/Maven-0a0e13?style=for-the-badge&logo=apachemaven&logoColor=00ff9c)
-![Lombok](https://img.shields.io/badge/Lombok-0a0e13?style=for-the-badge)
-![H2](https://img.shields.io/badge/H2%20Database-0a0e13?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate%20%2F%20JPA-0b0b0e?style=for-the-badge&logo=hibernate&logoColor=ff2e63)
+![JWT](https://img.shields.io/badge/JWT-0b0b0e?style=for-the-badge&logo=jsonwebtokens&logoColor=ff2e63)
+![JUnit5](https://img.shields.io/badge/JUnit%205-0b0b0e?style=for-the-badge&logo=junit5&logoColor=ff2e63)
+![Mockito](https://img.shields.io/badge/Mockito-0b0b0e?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-0b0b0e?style=for-the-badge&logo=swagger&logoColor=ff2e63)
+![Maven](https://img.shields.io/badge/Maven-0b0b0e?style=for-the-badge&logo=apachemaven&logoColor=ff2e63)
+![Lombok](https://img.shields.io/badge/Lombok-0b0b0e?style=for-the-badge)
+![H2](https://img.shields.io/badge/H2%20Database-0b0b0e?style=for-the-badge)
 
 ## `> ls ./projetos`
 
@@ -36,7 +36,7 @@ Sou o **Raphael**, estudante de **Análise e Desenvolvimento de Sistemas no Sena
 
 #### [gestao-de-clinica](https://github.com/Dev-RP7/gestao-de-clinica) — API REST
 
-![Feito com Claude](https://img.shields.io/badge/feito%20com-Claude%20(IA)-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=0a0e13)
+![Feito com Claude](https://img.shields.io/badge/feito%20com-Claude%20(IA)-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=0b0b0e)
 
 API para uma clínica médica: usuários, médicos, pacientes, especialidades, consultas, prontuários e receitas. Desenvolvida com o auxílio da IA **Claude**, da Anthropic.
 
@@ -73,22 +73,22 @@ API para aluguel de jogos, com cadastro de jogos por console, usuários e alugu�
 ## `> cat stats.log`
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dev-RP7&show_icons=true&locale=pt-br&bg_color=0a0e13&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_color=1d2b26" alt="Estatísticas do GitHub de Raphael" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RP7&layout=compact&hide=html,css,scss,javascript,typescript&locale=pt-br&bg_color=0a0e13&title_color=00ff9c&text_color=c9d1d9&border_color=1d2b26" alt="Linguagens mais usadas" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dev-RP7&show_icons=true&locale=pt-br&bg_color=0b0b0e&title_color=ff2e63&icon_color=ff2e63&text_color=c9d1d9&border_color=2a1a20" alt="Estatísticas do GitHub de Raphael" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RP7&layout=compact&hide=html,css,scss,javascript,typescript&locale=pt-br&bg_color=0b0b0e&title_color=ff2e63&text_color=c9d1d9&border_color=2a1a20" alt="Linguagens mais usadas" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Dev-RP7&locale=pt_BR&background=0A0E13&border=1D2B26&stroke=1D2B26&ring=00FF9C&fire=00FF9C&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=8B949E" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=Dev-RP7&locale=pt_BR&background=0B0B0E&border=2A1A20&stroke=2A1A20&ring=FF2E63&fire=FF2E63&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=FF2E63&sideLabels=FF2E63&dates=8B949E" alt="Sequência de contribuições" />
 </div>
 
 <!--
 ## `> ./contato.sh`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e13?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](COLE_AQUI_O_LINK_DO_LINKEDIN)
-[![Email](https://img.shields.io/badge/E--mail-0a0e13?style=for-the-badge&logo=gmail&logoColor=00ff9c)](mailto:COLE_AQUI_O_EMAIL)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0a0e13?style=for-the-badge&logo=vercel&logoColor=00ff9c)](COLE_AQUI_O_LINK_DO_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0b0e?style=for-the-badge&logo=linkedin&logoColor=ff2e63)](COLE_AQUI_O_LINK_DO_LINKEDIN)
+[![Email](https://img.shields.io/badge/E--mail-0b0b0e?style=for-the-badge&logo=gmail&logoColor=ff2e63)](mailto:COLE_AQUI_O_EMAIL)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0b0b0e?style=for-the-badge&logo=vercel&logoColor=ff2e63)](COLE_AQUI_O_LINK_DO_PORTFOLIO)
 -->
 
 <div align="center">
-  <img width="100%" src="assets/ninja-codando.svg" alt="Ninja em pixel art codando no notebook, com uma janela de código sendo digitada" />
+  <img width="100%" src="assets/ninja-v3.svg" alt="Ninja em pixel art codando no notebook, com uma janela de código sendo digitada" />
 </div>
 
 <p align="center"><code>[+] obrigado pela visita · conexão encerrada</code></p>
