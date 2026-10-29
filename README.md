@@ -87,4 +87,8 @@ API para aluguel de jogos, com cadastro de jogos por console, usuários e alugu�
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0a0e13?style=for-the-badge&logo=vercel&logoColor=00ff9c)](COLE_AQUI_O_LINK_DO_PORTFOLIO)
 -->
 
+<div align="center">
+  <img width="100%" src="assets/codando.svg" alt="Menino em pixel art codando no notebook, com uma janela de código sendo digitada" />
+</div>
+
 <p align="center"><code>[+] obrigado pela visita · conexão encerrada</code></p>
