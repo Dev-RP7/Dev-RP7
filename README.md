@@ -8,7 +8,7 @@
 
 ## 👋 Sobre mim
 
-<img align="right" width="200" src="assets/palhaco.svg" alt="Palhacinho espiando e fazendo joinha" />
+<img align="right" width="200" src="assets/gatinho.svg" alt="Gatinho de pijama espiando e fazendo joinha" />
 
 Sou o **Raphael**, estudante de **Análise e Desenvolvimento de Sistemas no Senac**, em São Paulo. Meu foco é **desenvolvimento backend com Java e Spring Boot**: gosto de construir APIs REST organizadas em camadas, com validação, tratamento de erros, segurança e testes automatizados.
 
