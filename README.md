@@ -1,42 +1,42 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b4965&height=170&section=header&text=Raphael%20Severiano&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Backend%20Java&descSize=18&descAlignY=60" alt="Raphael Severiano — Desenvolvedor Backend Java" />
+<img width="100%" src="assets/banner.svg" alt="RAPHAEL — desenvolvedor backend Java · Spring Boot" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=F89820&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot;APIs+REST+com+JWT%2C+testes+e+Docker;Estudante+de+ADS+no+Senac;Em+busca+da+minha+primeira+vaga+em+tecnologia" alt="Java + Spring Boot · APIs REST com JWT, testes e Docker" />
+<img width="100%" src="assets/terminal.svg" alt="Terminal: whoami — Raphael, dev backend Java; stack Java, Spring Boot, Spring Security, JPA, MySQL, MongoDB, Docker, AWS; disponível para estágio e júnior" />
 
 </div>
 
-## 👋 Sobre mim
+## `> cat sobre.txt`
 
 Sou o **Raphael**, estudante de **Análise e Desenvolvimento de Sistemas no Senac**, em São Paulo. Meu foco é **desenvolvimento backend com Java e Spring Boot**: gosto de construir APIs REST organizadas em camadas, com validação, tratamento de erros, segurança e testes automatizados.
 
-- 🎯 Buscando minha **primeira oportunidade** como estagiário ou Desenvolvedor Java Júnior
-- 🌱 Estudando agora: Spring Security com JWT, testes com JUnit e Mockito, Docker e deploy na AWS
-- 🧠 Aprendo melhor resolvendo problemas reais — cada projeto aqui nasceu de um
-- 📍 São Paulo, SP
+`[+]` Buscando minha **primeira oportunidade** como estagiário ou Desenvolvedor Java Júnior<br>
+`[+]` Estudando agora: Spring Security com JWT, testes com JUnit e Mockito, Docker e deploy na AWS<br>
+`[+]` Aprendo melhor resolvendo problemas reais — cada projeto aqui nasceu de um<br>
+`[+]` São Paulo, SP
 
-## 🛠️ Tecnologias
+## `> ls ./stack`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,docker,git,github,idea,aws&perline=9" alt="Java, Spring, MySQL, MongoDB, Docker, Git, GitHub, IntelliJ, AWS" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,docker,git,github,idea,aws&perline=9&theme=dark" alt="Java, Spring, MySQL, MongoDB, Docker, Git, GitHub, IntelliJ, AWS" />
 </p>
 
-![Hibernate](https://img.shields.io/badge/Hibernate%20%2F%20JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=flat-square)
-![H2](https://img.shields.io/badge/H2%20Database-004088?style=flat-square)
+![Hibernate](https://img.shields.io/badge/Hibernate%20%2F%20JPA-0a0e13?style=for-the-badge&logo=hibernate&logoColor=00ff9c)
+![JWT](https://img.shields.io/badge/JWT-0a0e13?style=for-the-badge&logo=jsonwebtokens&logoColor=00ff9c)
+![JUnit5](https://img.shields.io/badge/JUnit%205-0a0e13?style=for-the-badge&logo=junit5&logoColor=00ff9c)
+![Mockito](https://img.shields.io/badge/Mockito-0a0e13?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-0a0e13?style=for-the-badge&logo=swagger&logoColor=00ff9c)
+![Maven](https://img.shields.io/badge/Maven-0a0e13?style=for-the-badge&logo=apachemaven&logoColor=00ff9c)
+![Lombok](https://img.shields.io/badge/Lombok-0a0e13?style=for-the-badge)
+![H2](https://img.shields.io/badge/H2%20Database-0a0e13?style=for-the-badge)
 
-## 🚀 Projetos
+## `> ls ./projetos`
 
-### ✅ Concluídos
+### `[✔]` Concluídos
 
-#### 🏥 [Gestão de Clínica — API REST](https://github.com/Dev-RP7/gestao-de-clinica)
+#### [gestao-de-clinica](https://github.com/Dev-RP7/gestao-de-clinica) — API REST
 
-![Feito com Claude](https://img.shields.io/badge/Feito%20com-Claude%20(IA)-D97757?style=flat-square&logo=claude&logoColor=white)
+![Feito com Claude](https://img.shields.io/badge/feito%20com-Claude%20(IA)-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=0a0e13)
 
 API para uma clínica médica: usuários, médicos, pacientes, especialidades, consultas, prontuários e receitas. Desenvolvida com o auxílio da IA **Claude**, da Anthropic.
 
@@ -49,12 +49,12 @@ API para uma clínica médica: usuários, médicos, pacientes, especialidades, c
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| [Sorts em Java](https://github.com/Dev-RP7/Sorts-em-Java) | Bubble, Insertion, Selection e Quick Sort, com medição do tempo de execução e análise de complexidade | Java 25 |
-| [Pilha em Java](https://github.com/Dev-RP7/AulaEstruturaDeDadosPilha) | Estrutura de dados Pilha (LIFO) genérica, com herança e redimensionamento de array | Java 25 · Generics |
+| [sorts-em-java](https://github.com/Dev-RP7/Sorts-em-Java) | Bubble, Insertion, Selection e Quick Sort, com medição do tempo de execução e análise de complexidade | `Java 25` |
+| [pilha-em-java](https://github.com/Dev-RP7/AulaEstruturaDeDadosPilha) | Estrutura de dados Pilha (LIFO) genérica, com herança e redimensionamento de array | `Java 25` · `Generics` |
 
-### 🚧 Em andamento
+### `[~]` Em andamento
 
-#### 🎮 [Locadora de Jogos — API REST](https://github.com/Dev-RP7/locadora-de-jogos)
+#### [locadora-de-jogos](https://github.com/Dev-RP7/locadora-de-jogos) — API REST
 
 API para aluguel de jogos, com cadastro de jogos por console, usuários e aluguéis.
 
@@ -66,25 +66,25 @@ API para aluguel de jogos, com cadastro de jogos por console, usuários e alugu�
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| [Gerenciamento de Biblioteca](https://github.com/Dev-RP7/Gerenciamento-de-Biblioteca) | API de livros, clientes e vendas, com DTOs de entrada e saída e camadas controller → service → repository | Java 25 · Spring Boot · JPA |
-| [Bar POO](https://github.com/Dev-RP7/projeto-Bar-POO) | Modelagem orientada a objetos de um sistema de pedidos de bar (bebidas, lanches, itens e formas de pagamento) com interface em JavaFX | Java 25 · JavaFX · Lombok |
-| [Aulas Senac](https://github.com/Dev-RP7/Aulas-Senac) | Primeiros passos com Spring Boot: projeto de farmácia e configuração de fuso horário | Java 25 · Spring Boot |
+| [gerenciamento-de-biblioteca](https://github.com/Dev-RP7/Gerenciamento-de-Biblioteca) | API de livros, clientes e vendas, com DTOs de entrada e saída e camadas controller → service → repository | `Java 25` · `Spring Boot` · `JPA` |
+| [bar-poo](https://github.com/Dev-RP7/projeto-Bar-POO) | Modelagem orientada a objetos de um sistema de pedidos de bar (bebidas, lanches, itens e formas de pagamento) com interface em JavaFX | `Java 25` · `JavaFX` · `Lombok` |
+| [aulas-senac](https://github.com/Dev-RP7/Aulas-Senac) | Primeiros passos com Spring Boot: projeto de farmácia e configuração de fuso horário | `Java 25` · `Spring Boot` |
 
-## 📊 Estatísticas
+## `> cat stats.log`
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dev-RP7&show_icons=true&hide_border=true&theme=transparent&locale=pt-br&title_color=F89820&icon_color=F89820" alt="Estatísticas do GitHub de Raphael" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RP7&layout=compact&hide=html,css,scss,javascript,typescript&hide_border=true&theme=transparent&locale=pt-br&title_color=F89820" alt="Linguagens mais usadas" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dev-RP7&show_icons=true&locale=pt-br&bg_color=0a0e13&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_color=1d2b26" alt="Estatísticas do GitHub de Raphael" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RP7&layout=compact&hide=html,css,scss,javascript,typescript&locale=pt-br&bg_color=0a0e13&title_color=00ff9c&text_color=c9d1d9&border_color=1d2b26" alt="Linguagens mais usadas" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Dev-RP7&hide_border=true&theme=transparent&locale=pt_BR&ring=F89820&fire=F89820&currStreakLabel=F89820" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=Dev-RP7&locale=pt_BR&background=0A0E13&border=1D2B26&stroke=1D2B26&ring=00FF9C&fire=00FF9C&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=8B949E" alt="Sequência de contribuições" />
 </div>
 
 <!--
-## 📫 Contato
+## `> ./contato.sh`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_AQUI_O_LINK_DO_LINKEDIN)
-[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:COLE_AQUI_O_EMAIL)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](COLE_AQUI_O_LINK_DO_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e13?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](COLE_AQUI_O_LINK_DO_LINKEDIN)
+[![Email](https://img.shields.io/badge/E--mail-0a0e13?style=for-the-badge&logo=gmail&logoColor=00ff9c)](mailto:COLE_AQUI_O_EMAIL)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0a0e13?style=for-the-badge&logo=vercel&logoColor=00ff9c)](COLE_AQUI_O_LINK_DO_PORTFOLIO)
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4965,100:0d1b2a&height=100&section=footer" alt="" />
+<p align="center"><code>[+] obrigado pela visita · conexão encerrada</code></p>
