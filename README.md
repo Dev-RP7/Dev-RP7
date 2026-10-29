@@ -88,7 +88,7 @@ API para aluguel de jogos, com cadastro de jogos por console, usuários e alugu�
 -->
 
 <div align="center">
-  <img width="100%" src="assets/codando.svg" alt="Menino em pixel art codando no notebook, com uma janela de código sendo digitada" />
+  <img width="100%" src="assets/codando.svg" alt="Ninja em pixel art codando no notebook, com uma janela de código sendo digitada" />
 </div>
 
 <p align="center"><code>[+] obrigado pela visita · conexão encerrada</code></p>
