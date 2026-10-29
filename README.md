@@ -18,7 +18,7 @@ Sou o **Raphael**, estudante de **Análise e Desenvolvimento de Sistemas no Sena
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,docker,angular,html,css,git,github,idea,aws&perline=12" alt="Java, Spring, MySQL, MongoDB, Docker, Angular, HTML, CSS, Git, GitHub, IntelliJ, AWS" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,docker,git,github,idea,aws&perline=9" alt="Java, Spring, MySQL, MongoDB, Docker, Git, GitHub, IntelliJ, AWS" />
 </p>
 
 ![Hibernate](https://img.shields.io/badge/Hibernate%20%2F%20JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
@@ -30,20 +30,31 @@ Sou o **Raphael**, estudante de **Análise e Desenvolvimento de Sistemas no Sena
 ![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=flat-square)
 ![H2](https://img.shields.io/badge/H2%20Database-004088?style=flat-square)
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 
-### 🏥 [Gestão de Clínica — API REST](https://github.com/Dev-RP7/gestao-de-clinica)
+### ✅ Concluídos
 
-API para uma clínica médica: usuários, médicos, pacientes, especialidades, consultas, prontuários e receitas.
+#### 🏥 [Gestão de Clínica — API REST](https://github.com/Dev-RP7/gestao-de-clinica)
+
+![Feito com Claude](https://img.shields.io/badge/Feito%20com-Claude%20(IA)-D97757?style=flat-square&logo=claude&logoColor=white)
+
+API para uma clínica médica: usuários, médicos, pacientes, especialidades, consultas, prontuários e receitas. Desenvolvida com o auxílio da IA **Claude**, da Anthropic.
 
 - Autenticação **JWT** e controle de acesso por perfil com Spring Security
 - Paginação, filtros, relatórios e erros padronizados com `GlobalExceptionHandler`
 - **27 testes** com JUnit 5, Mockito e MockMvc (unidade, repositório e integração)
 - Sobe com um único comando via **Docker Compose** (API + MySQL), documentada no **Swagger**
 
-`Java 21` · `Spring Boot 4` · `Spring Security` · `MySQL` · `H2` · `Docker`
+`Java 25` · `Spring Boot 4` · `Spring Security` · `MySQL` · `H2` · `Docker`
 
-### 🎮 [Locadora de Jogos — API REST](https://github.com/Dev-RP7/locadora-de-jogos)
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [Sorts em Java](https://github.com/Dev-RP7/Sorts-em-Java) | Bubble, Insertion, Selection e Quick Sort, com medição do tempo de execução e análise de complexidade | Java 25 |
+| [Pilha em Java](https://github.com/Dev-RP7/AulaEstruturaDeDadosPilha) | Estrutura de dados Pilha (LIFO) genérica, com herança e redimensionamento de array | Java 25 · Generics |
+
+### 🚧 Em andamento
+
+#### 🎮 [Locadora de Jogos — API REST](https://github.com/Dev-RP7/locadora-de-jogos)
 
 API para aluguel de jogos, com cadastro de jogos por console, usuários e aluguéis.
 
@@ -53,21 +64,17 @@ API para aluguel de jogos, com cadastro de jogos por console, usuários e alugu�
 
 `Java 25` · `Spring Boot` · `Spring Security` · `MapStruct` · `MySQL`
 
-### 📚 Outros projetos
-
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| [Gerenciamento de Biblioteca](https://github.com/Dev-RP7/Gerenciamento-de-Biblioteca) | API de livros, clientes e vendas, com DTOs de entrada e saída e camadas controller → service → repository | Java 17 · Spring Boot · JPA |
-| [Bar POO](https://github.com/Dev-RP7/projeto-Bar-POO) | Modelagem orientada a objetos de um sistema de pedidos de bar (bebidas, lanches, itens e formas de pagamento) com interface em JavaFX | Java · JavaFX · Lombok |
-| [Sorts em Java](https://github.com/Dev-RP7/Sorts-em-Java) | Bubble, Insertion, Selection e Quick Sort, com medição do tempo de execução e análise de complexidade | Java |
-| [Pilha em Java](https://github.com/Dev-RP7/AulaEstruturaDeDadosPilha) | Estrutura de dados Pilha (LIFO) genérica, com herança e redimensionamento de array | Java · Generics |
-| [Aulas Senac](https://github.com/Dev-RP7/Aulas-Senac) | Primeiros passos com Spring Boot: projeto de farmácia e configuração de fuso horário | Java · Spring Boot |
+| [Gerenciamento de Biblioteca](https://github.com/Dev-RP7/Gerenciamento-de-Biblioteca) | API de livros, clientes e vendas, com DTOs de entrada e saída e camadas controller → service → repository | Java 25 · Spring Boot · JPA |
+| [Bar POO](https://github.com/Dev-RP7/projeto-Bar-POO) | Modelagem orientada a objetos de um sistema de pedidos de bar (bebidas, lanches, itens e formas de pagamento) com interface em JavaFX | Java 25 · JavaFX · Lombok |
+| [Aulas Senac](https://github.com/Dev-RP7/Aulas-Senac) | Primeiros passos com Spring Boot: projeto de farmácia e configuração de fuso horário | Java 25 · Spring Boot |
 
 ## 📊 Estatísticas
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dev-RP7&show_icons=true&hide_border=true&theme=transparent&locale=pt-br&title_color=F89820&icon_color=F89820" alt="Estatísticas do GitHub de Raphael" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RP7&layout=compact&hide_border=true&theme=transparent&locale=pt-br&title_color=F89820" alt="Linguagens mais usadas" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RP7&layout=compact&hide=html,css,scss,javascript,typescript&hide_border=true&theme=transparent&locale=pt-br&title_color=F89820" alt="Linguagens mais usadas" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=Dev-RP7&hide_border=true&theme=transparent&locale=pt_BR&ring=F89820&fire=F89820&currStreakLabel=F89820" alt="Sequência de contribuições" />
 </div>
