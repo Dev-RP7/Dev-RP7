@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/banner-v8.svg" alt="RAPHAEL — desenvolvedor backend Java · Spring Boot" />
+<img width="100%" src="assets/banner-v9.svg" alt="RAPHAEL — desenvolvedor backend Java · Spring Boot" />
 
 <img width="100%" src="assets/terminal-v2.svg" alt="Terminal: whoami — Raphael, dev backend Java; stack Java, Spring Boot, Spring Security, JPA, MySQL, MongoDB, Docker, AWS; disponível para estágio e júnior" />
 
